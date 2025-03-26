@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab15-PC01\\Fuchibol\\Test\\Test.csproj": {}
+    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab15-PC01\\Fuchibol\\Test\\Test.csproj": {
+    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Fuchibol\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\Users\\Lab15-PC01\\Fuchibol\\Test\\Test.csproj",
+        "projectPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab15-PC01\\Fuchibol\\Test\\obj\\",
+        "outputPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Lab15-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
