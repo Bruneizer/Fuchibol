@@ -1,0 +1,5 @@
+C:\Users\Lab15-PC01\Documents\GitHub\Fuchibol\Biblioteca\obj\Debug\net8.0\Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lab15-PC01\Documents\GitHub\Fuchibol\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfoInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\Fuchibol\Biblioteca\obj\Debug\net8.0\Biblioteca.AssemblyInfo.cs
+C:\Users\Lab15-PC01\Documents\GitHub\Fuchibol\Biblioteca\obj\Debug\net8.0\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\Lab15-PC01\Documents\GitHub\Fuchibol\Biblioteca\obj\Debug\net8.0\Biblioteca.sourcelink.json

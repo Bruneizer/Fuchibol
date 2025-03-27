@@ -13,17 +13,20 @@ public class Defensor : ItipoJugador
 }
     public void AplicarEntranmientoFisico(Jugador jugador)
     {
-        throw new NotImplementedException();
+        jugador.Potencia += 1;
+        jugador.HabilidadPases += 0.5;
+        Quite += 0.5;
     }
 
     public void AplicarEntranmientoLirico(Jugador jugador)
     {
-        throw new NotImplementedException();
+        
     }
 
     public void AplicarEntranmientoTactico(Jugador jugador)
     {
-        throw new NotImplementedException();
+        jugador.VisionJuego += 0.5;
+        jugador.VisionCompañeros += 1;
     }
 }
 
