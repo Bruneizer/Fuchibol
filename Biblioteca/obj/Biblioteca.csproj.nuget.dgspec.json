@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Biblioteca\\Biblioteca.csproj": {}
+    "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\Fuchibol\\Biblioteca\\Biblioteca.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Biblioteca\\Biblioteca.csproj": {
+    "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\Fuchibol\\Biblioteca\\Biblioteca.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Biblioteca\\Biblioteca.csproj",
+        "projectUniqueName": "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\Fuchibol\\Biblioteca\\Biblioteca.csproj",
         "projectName": "Biblioteca",
-        "projectPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Biblioteca\\Biblioteca.csproj",
-        "packagesPath": "C:\\Users\\Lab15-PC01\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Lab15-PC01\\Documents\\GitHub\\Fuchibol\\Biblioteca\\obj\\",
+        "projectPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\Fuchibol\\Biblioteca\\Biblioteca.csproj",
+        "packagesPath": "C:\\Users\\carlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\carlo\\OneDrive\\Escritorio\\POO\\Fuchibol\\Biblioteca\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Lab15-PC01\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\carlo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

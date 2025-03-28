@@ -1,31 +1,33 @@
 using Biblioteca;
 
-public class Atacante
+public class Atacante : ITipoJugador
 {
     public double Anotacion  { get; set; }
 
-    public double GetPresicion(Jugador jugador)
+    public double GetPrecision(Jugador jugador) 
     {
-        return 2;
+        return Anotacion;
     }
     public double GetVisionGeneral(Jugador jugador)
     {
-        return 2;
+        return jugador.VisionJuego + jugador.HabilidadPases;
     }
     public void AplicarEntrenamientoFisico(Jugador jugador)
     {
+        jugador.Potencia += 1;
+        jugador.HabilidadPases += 0.5;
     }
     public void AplicarEntrenamientoLirico(Jugador jugador)
     {
-        jugador.Potencia += 1;
-        jugador.HabilidadPases += 0.5;
-        
+        jugador.HabilidadPases += 1;
+        Anotacion += 0.5;   
     }
-    public void AplicarEntranmientoTactico (Jugador jugador)
+    public void AplicarEntrenamientoTactico (Jugador jugador)
     {
         jugador.HabilidadPases += 0.5;
         jugador.VisionJuego += 0.5;
         jugador.VisionCompañeros += 0.5; 
 
     }
+
 }

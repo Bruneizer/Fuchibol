@@ -1,18 +1,14 @@
 namespace Biblioteca;
 
-public interface  ItipoJugador
+public interface  ITipoJugador
 {
-public double GetPrecision (Jugador jugador)
-{
-    return 2;
-}
-public  double GetVisionGeneral (Jugador jugador)
-{
-    return 2;
-}
-public void AplicarEntranmientoFisico(Jugador jugador);
+public double GetPrecision (Jugador jugador);
 
-public void AplicarEntranmientoLirico(Jugador jugador);
-public void AplicarEntranmientoTactico(Jugador jugador);
+public  double GetVisionGeneral (Jugador jugador);
+
+public void AplicarEntrenamientoFisico(Jugador jugador);
+
+public void AplicarEntrenamientoLirico(Jugador jugador);
+public void AplicarEntrenamientoTactico(Jugador jugador);
 
 }
